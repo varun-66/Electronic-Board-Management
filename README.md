@@ -1,2 +1,2 @@
-# Electronic-Board-Management
-This is my project from Object Oriented Analysis and Design course.
+# VIT E B M S
+VIT-EBMS provides an easy mode of electricity maintenance to general public by means of complete online electricity board maintenance system. It includes online bill payment, electricity status check, call for the maintenance or service, complaints, etc. It will also record number of power outages in a certain period and hence helping in finding the cause for the outage and reducing the outage time as more as possible.
